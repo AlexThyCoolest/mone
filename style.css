@@ -1,0 +1,24 @@
+* {
+	text-align: center;
+	font-family: serif;
+	margin: 70px 0;
+}
+
+h1 {
+	font-size: 70px;
+	color: #214d1b;
+	text-shadow: #fc0 1px 0 10px;
+}
+
+button {
+	font-size: 20px;
+	padding: 10px 50px;
+	background-color: #214d1b;
+	border: solid;
+	border-radius: 10px;
+	text-shadow: #fc0 1px 0 10px;
+}
+
+body {
+	background-color: green;
+}
